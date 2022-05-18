@@ -1,0 +1,5 @@
+linter:
+  rules:
+    - prefer_const_constructors
+    - prefer_final_locals
+    - prefer_final_in_for_each
